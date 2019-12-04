@@ -13,5 +13,5 @@ Detected layout of the image is shown below,
 
 <p align="center"><img src="https://user-images.githubusercontent.com/25722196/70160852-2c01f580-16e1-11ea-9006-a5611681f779.png" /></p>
 
-Then by using the Game-AI best move is detected and sent the command to the robo arm. 
+Then by using the Game-AI(Min max implementation without pruning was implemented here) best move is selected and sent the command to the robo arm. 
 
